@@ -1,6 +1,5 @@
 # app.yaml
-runtime: php
-env: flex
+runtime: php73
 env_variables:
-  APP_ENV: 'prod'
-  DOCUMENT_ROOT: '/SPD_FASE2/public'
+  APP_ENV: dev
+  APP_SECRET: 4cf64a6711f0e50534deba4fa0bdce12
