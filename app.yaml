@@ -3,4 +3,4 @@ runtime: php
 env: flex
 env_variables:
   APP_ENV: 'prod'
-  DOCUMENT_ROOT: '/app/public'
+  DOCUMENT_ROOT: '/SPD_FASE2/public'
